@@ -3,8 +3,7 @@
 I am a software engineer who works for Red Hat in the virtualization engineering
 group. My primary focus areas are Confidential computing, QEMU, KVM, libvirt
 and open source cloud virtualization tools like cloud-init, Microsoft WALA agent,
-hyperv-daemons etc. I have worked in Canada for various companies after completion
-of my masters program at the University of British Columbia there. My Red Hat
+hyperv-daemons etc. My Red Hat
 personal page is located at: https://people.redhat.com/~anisinha/
 
 <!--
